@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Kaliah Walton CV
+title: Data Science Resume
 ---
 # Kaliah Walton
 Student, Data Analyst, Computer Engineer.
