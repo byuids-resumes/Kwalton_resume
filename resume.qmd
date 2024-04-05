@@ -12,12 +12,12 @@ A student at Brigham Young University_Idaho, Majoring in Computer Engineering wi
 
 ### Specialized in
 
-Data Visualization, Data Analysis, programming
+Data Visualization, Data Analysis, Computer Programming
 
 
 ### Research interests
 
-Hardware of computers, Machine Learning, Data Visualization
+Computer Hardware, Machine Learning, Data Visualization
 
 
 ## Education
