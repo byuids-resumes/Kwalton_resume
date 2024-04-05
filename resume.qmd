@@ -5,7 +5,7 @@ title: Data Science Resume
 # Kaliah Walton
 Student, Data Analyst, Computer Engineer.
 
-<div id="kaliahwaltonn@gmail.com">
+Email: kaliahwaltonn@gmail.com
 
 ## Currently
 A student at Brigham Young University_Idaho, Majoring in Computer Engineering with a minor in World History.
